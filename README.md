@@ -1,1 +1,1 @@
-Created Breakout game following the youtube video (https://www.youtube.com/watch?v=ftDxniRTpRQ)
+Created Breakout game for fun.

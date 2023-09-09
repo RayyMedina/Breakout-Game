@@ -8,7 +8,9 @@ function App() {
     <Router>
       <Switch>
         <Route path="/">
+
           <Breakout />
+          
         </Route>
       </Switch>
     </Router>

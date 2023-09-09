@@ -5,7 +5,7 @@ export default {
     dx: 5,
     dy: 5,
     rad: 10,
-    speed: 10,
+    speed: 12,
   },
   brickObj: {
     x: 0.5,
@@ -15,13 +15,13 @@ export default {
     colors: ["red", "lightblue"],
   },
   player: {
-    name: "Dhaval",
-    lives: 5,
+    name: "Rayy",
+    lives: 6,
     score: 0,
-    level: 1,
+    level: 3,
   },
   paddleProps: {
-    height: 20,
+    height: 30,
     width: 100,
     x: 100,
     color: "orange",

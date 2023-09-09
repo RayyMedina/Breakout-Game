@@ -15,7 +15,7 @@ export default (ctx, canvas, paddleProps) => {
       ctx.lineWidth = 1;
       ctx.fillStyle = this.broke ? "white" : this.colors[1];
       ctx.shadowBlur = 0;
-      ctx.shadowColor = "blue";
+      ctx.shadowColor = "green";
       ctx.strokeRect(this.x, this.y, this.width, this.height);
       ctx.fill();
     }

@@ -1,1 +1,1 @@
-Created Breakout game to get a better understanding of coding games.
+Created the game Breakout to get a better understanding of coding .
